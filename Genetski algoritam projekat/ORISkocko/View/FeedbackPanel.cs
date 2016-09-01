@@ -6,43 +6,39 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using ORISkocko.Controllers;
+using ORISkocko.View;
 
 namespace ORISkocko
 {
-    public partial class ResenjePanel : UserControl
+    public partial class FeedbackPanel : UserControl,IView
     {
-        int brojZnakovaUkombinaciji = 4;
-        int[] pogoci;
-
-        public int BrojZnakovaUkombinaciji
+        IUtilityController controller;
+        int[] fields;
+     
+      
+        public int[] Fields
         {
-            get { return brojZnakovaUkombinaciji; }
-            set { brojZnakovaUkombinaciji = value; }
-        }
-        public int[] Pogoci
-        {
-            get { return pogoci; }
-            set { pogoci = value; }
+            get { return fields; }
+            set { fields = value; }
         }
 
-        public ResenjePanel()
+        public FeedbackPanel()
         {
             InitializeComponent();
-
         }
 
-        public ResenjePanel(int X, int Y)
+        public FeedbackPanel(int X, int Y)
         {
-
             Location = new Point(X, Y);
             InitializeComponent();
         }
 
-        public void inicijalizujResenjaPanel()
+        public void initializeFeedbackPanel()
         {
-            pogoci = new int[brojZnakovaUkombinaciji];
-            for (int i = 0; i < brojZnakovaUkombinaciji; i++)
-                pogoci[i] = 0;
+            fields = new int[controller.GetNumberOfSignsInCombination()];
+            for (int i = 0; i < controller.GetNumberOfSignsInCombination(); i++)
+                fields[i] = 0;
         }
 
 
@@ -50,14 +46,12 @@ namespace ORISkocko
         {
             base.OnPaint(e);
             Graphics gr = e.Graphics;
-
-            for (int i = 0; i < brojZnakovaUkombinaciji; i++)
+            for (int i = 0; i < controller.GetNumberOfSignsInCombination(); i++)
             {
                 Rectangle recElipsa = new Rectangle(i * (16 + 5), 0, 16, 16);
-
                 Color color1 = Color.White;
-                int trenutniPogodak = pogoci[i];
-                switch (trenutniPogodak)
+                int cuurentField = fields[i];
+                switch (cuurentField)
                 {
                     case 0:
                         {
@@ -77,34 +71,17 @@ namespace ORISkocko
                 }
                 gr.FillEllipse(new SolidBrush(color1), recElipsa);
                 gr.DrawEllipse(new Pen(Color.Black, 1), recElipsa);
-
             }
-
-
         }
 
         public void Draw(PaintEventArgs e)
         {
             OnPaint(e);
-
         }
 
-        public bool reseno()
+        public void setController(IUtilityController cont)
         {
-            bool retVal = true;
-            for (int i = 0; i < brojZnakovaUkombinaciji; i++)
-            {
-                if (pogoci[i] != 2)
-                    retVal = false;
-            }
-            return retVal;
-
+            controller = cont;
         }
-
-        private void ResenjePanel_Load(object sender, EventArgs e)
-        {
-
-        }
-
     }
 }

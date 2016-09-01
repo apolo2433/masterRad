@@ -50,3 +50,112 @@ C:\Users\Goran\Desktop\Master\Skocko\ORISkocko\obj\x86\Debug\ORISkocko.csproj.Ge
 C:\Users\Goran\Desktop\Master\Skocko\ORISkocko\obj\x86\Debug\ORISkocko.exe
 C:\Users\Goran\Desktop\Master\Skocko\ORISkocko\obj\x86\Debug\ORISkocko.pdb
 C:\Users\Goran\Desktop\Master\Skocko\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master projekat temp\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master Projekat temp2\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat V3\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat V4\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat v5\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat v6\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogOpcije.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DijalogPravila.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaLabelePrilagodjenosti.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.PoljaPanel.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.ResenjePanel.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.SuperPanel.resources
+C:\Users\Goran\Desktop\Master Projekat engleski V1\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.csproj.GenerateResource.Cache

@@ -1,6 +1,8 @@
-﻿namespace ORISkocko
+﻿using System;
+
+namespace ORISkocko
 {
-    partial class ResenjePanel
+    partial class FeedbackPanel
     {
         /// <summary> 
         /// Required designer variable.
@@ -40,6 +42,11 @@
             this.Load += new System.EventHandler(this.ResenjePanel_Load);
             this.ResumeLayout(false);
 
+        }
+
+        private void ResenjePanel_Load(object sender, EventArgs e)
+        {
+            
         }
 
         #endregion

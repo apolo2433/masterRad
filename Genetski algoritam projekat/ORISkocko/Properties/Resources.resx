@@ -133,6 +133,9 @@
   <data name="prazno" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\prazno.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="skockoSlika" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skockoSlika.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tref" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tref.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>

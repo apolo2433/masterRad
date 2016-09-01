@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ORISkocko.Controllers;
+using ORISkocko.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
@@ -15,7 +17,15 @@ namespace ORISkocko
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Form1 view = new Form1();
+            IUtility utility = new Utility();
+            IUtilityController utilityController = new UtilityController(view, utility);
+            foreach (var sp in view.Controls.OfType<TablePanel>())
+                sp.setController(utilityController);
+            //foreach (var pp in view.Controls.OfType<PoljaPanel>())
+            //    pp.setController(utilityController);
+            view.initializeNormalRegime();
+            Application.Run(view);
         }
     }
 }

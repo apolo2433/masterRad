@@ -1,6 +1,6 @@
 ﻿namespace ORISkocko
 {
-    partial class PoljaPanel
+    partial class TablePanel
     {
         /// <summary> 
         /// Required designer variable.
@@ -30,18 +30,19 @@
         {
             this.SuspendLayout();
             // 
-            // PoljaPanel
+            // SuperPanel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "PoljaPanel";
-            this.Size = new System.Drawing.Size(300, 39);
-            this.Load += new System.EventHandler(this.PoljaPanel_Load);
+            this.Name = "SuperPanel";
+            this.Size = new System.Drawing.Size(600, 462);
+            this.Load += new System.EventHandler(this.TablePanel_Load);
             this.ResumeLayout(false);
 
         }
-
+        
         #endregion
+
     }
 }

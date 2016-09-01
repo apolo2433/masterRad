@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace ORISkocko
 {
-    public partial class DijalogPravila : Form
+    public partial class DialogRules : Form
     {
-        public DijalogPravila()
+        public DialogRules()
         {
             InitializeComponent();
         }

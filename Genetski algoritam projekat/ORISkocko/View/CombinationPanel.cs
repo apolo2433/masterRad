@@ -6,69 +6,58 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using ORISkocko.Controllers;
+using ORISkocko.View;
 
 namespace ORISkocko
 {
-    public partial class PoljaPanel : UserControl
+    public partial class CombinationPanel : UserControl, IView
     {
-        public int brojZnakovaUkombinaciji = 4;
-        int trenutnaVrednost = 0;
-        int[] vrednosti;
+        IUtilityController controller;
+        int[] fields;
 
-        public int BrojZnakovaUkombinaciji
+
+        public int[] Fields
         {
-            get { return brojZnakovaUkombinaciji; }
-            set { brojZnakovaUkombinaciji = value; }
+            get { return fields; }
+            set { fields = value; }
         }
 
-
-        public int TrenutnaVrednost
-        {
-            get { return trenutnaVrednost; }
-            set { trenutnaVrednost = value; }
-        }
-
-        public int[] Vrednosti
-        {
-            get { return vrednosti; }
-            set { vrednosti = value; }
-        }
-
-        public PoljaPanel()
+        public CombinationPanel()
         {
             InitializeComponent();
-
         }
 
-        public PoljaPanel(int X, int Y)
+        public CombinationPanel(int X, int Y)
         {
             Location = new Point(X, Y);
             InitializeComponent();
         }
 
-        public void inicijalizjPoljaPanel()
+        public void initializeCombinationPanel()
         {
-            vrednosti = new int[brojZnakovaUkombinaciji];
-            for (int i = 0; i < brojZnakovaUkombinaciji; i++)
-                vrednosti[i] = 0;
+            fields = new int[controller.GetNumberOfSignsInCombination()];
+            for (int i = 0; i < controller.GetNumberOfSignsInCombination(); i++)
+                fields[i] = 0;
 
         }
+
 
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
             Graphics gr = e.Graphics;
-            int trenutnaVrednost = 0;
-            int brojac = 0;
+            int currentField = 0;
+           
             Rectangle rec = this.ClientRectangle;
-            for (int i = 0; i < brojZnakovaUkombinaciji; i++)
+            for (int i = 0; i < controller.GetNumberOfSignsInCombination(); i++)
             {
                 Rectangle r = new Rectangle(i * (32 + 10), 0, 32, 32);
-                trenutnaVrednost = vrednosti[i];
-                brojac++;
+                currentField = fields[i];
+                
                 Color color1 = Color.White;
                 Image icon = Properties.Resources.prazno;
-                switch (trenutnaVrednost)
+                switch (currentField)
                 {
                     case 0:
                         {
@@ -97,7 +86,7 @@ namespace ORISkocko
                         }
                     case 5:
                         {
-                            icon = Properties.Resources.cd;
+                            icon = Properties.Resources.skockoSlika;
                             break;
                         }
                     case 6:
@@ -108,7 +97,6 @@ namespace ORISkocko
 
                 }
                 gr.DrawImage(icon, r);
-
             }
 
         }
@@ -116,8 +104,6 @@ namespace ORISkocko
         public void Draw(PaintEventArgs e)
         {
             OnPaint(e);
-
-
         }
 
         private void PoljaPanel_Load(object sender, EventArgs e)
@@ -125,8 +111,10 @@ namespace ORISkocko
 
         }
 
+        public void setController(IUtilityController cont)
+        {
+            controller = cont;
 
-
-
+        }
     }
 }
