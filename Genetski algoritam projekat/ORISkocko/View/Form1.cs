@@ -24,6 +24,8 @@ namespace ORISkocko
         public Form1()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
         }
 
         public void initializeNormalRegime()
@@ -116,7 +118,7 @@ namespace ORISkocko
             lblNumberOfIteration.Text = "Broj iteracija :" + controller.GetNumberOfIterations();
             btnNewGame.Location = new Point(panelChoice.Location.X + panelChoice.Width - btnNewGame.Width, lblStatus.Location.Y);
             checkBoxSolution.Location = new Point(panelChoice.Location.X + panelChoice.Width - checkBoxSolution.Width, panelChoice.Location.Y - 30);
-            btnUpdateFitness.Location = new Point(panelChoice.Location.X+panelChoice.Width-btnUpdateFitness.Width-checkBoxSolution.Width-10, panelChoice.Location.Y-btnUpdateFitness.Height );
+            btnUpdateFitness.Location = new Point(solutionPanel.Location.X, solutionPanel.Location.Y+ btnUpdateFitness.Height+10 );
             btnUpdateFitness.Visible = false;
             this.Height = tablePanel.Height + panelChoice.Height + 150;
             this.Width = panelChoice.Location.X + panelChoice.Width + 20;

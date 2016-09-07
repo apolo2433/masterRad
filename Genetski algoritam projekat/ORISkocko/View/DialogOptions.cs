@@ -51,6 +51,8 @@ namespace ORISkocko
            
 
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
             this.numberOfRows = numberOfRows;
             this.populationSize = populationSize;
             this.numberOfIterations = numberOfIterations;

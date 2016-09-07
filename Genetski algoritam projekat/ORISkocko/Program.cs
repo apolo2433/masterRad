@@ -22,8 +22,6 @@ namespace ORISkocko
             IUtilityController utilityController = new UtilityController(view, utility);
             foreach (var sp in view.Controls.OfType<TablePanel>())
                 sp.setController(utilityController);
-            //foreach (var pp in view.Controls.OfType<PoljaPanel>())
-            //    pp.setController(utilityController);
             view.initializeNormalRegime();
             Application.Run(view);
         }

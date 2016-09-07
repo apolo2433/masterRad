@@ -14,6 +14,8 @@ namespace ORISkocko
         public DialogRules()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)

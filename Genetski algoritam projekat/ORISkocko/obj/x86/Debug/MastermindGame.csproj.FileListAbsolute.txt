@@ -40,3 +40,17 @@ C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko
 C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.FeedbackPanel.resources
 C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.TablePanel.resources
 C:\Users\Goran\Desktop\MasterRad\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\MastermindGame.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.exe
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\bin\Debug\ORISkocko.pdb
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\MastermindGame.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DialogOptions.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.DialogRules.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Form1.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.FitnessPanel.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.Properties.Resources.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.CombinationPanel.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.FeedbackPanel.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\ORISkocko.TablePanel.resources
+C:\Users\Goran\Desktop\Master projekat\masterRad\Genetski algoritam projekat\ORISkocko\obj\x86\Debug\MastermindGame.csproj.GenerateResource.Cache
