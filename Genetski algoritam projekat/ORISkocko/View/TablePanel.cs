@@ -136,10 +136,19 @@ namespace ORISkocko
                 feedbackPanels[currentRow].Fields = controller.GetCurrentRowFromTableResoults();
                 controller.CheckIfSolutionIsFound();
 
-                if (currentRow > 0) { 
-                fitnessPanels[currentRow].AverageFitness = averageFitness;
-                fitnessPanels[currentRow].FitnessOfBestIndividual = fitnessOfBestIndividual;
-                fitnessPanels[currentRow].LabelType = "value";
+                if (currentRow > 0) {
+                    if (controller.GetRegime() == 2)
+                    {
+                        fitnessPanels[currentRow].AverageFitness = averageFitness;
+                        fitnessPanels[currentRow].FitnessOfBestIndividual = fitnessOfBestIndividual;
+                        fitnessPanels[currentRow].LabelType = "value";
+                    }
+                    else
+                    {
+                        fitnessPanels[currentRow].AverageFitness = 0;
+                        fitnessPanels[currentRow].FitnessOfBestIndividual = 0;
+                        fitnessPanels[currentRow].LabelType = "value";
+                    }
                 }   
 
                 combinationPanels[currentRow].Invalidate();

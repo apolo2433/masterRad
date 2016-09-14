@@ -191,6 +191,7 @@
             this.Controls.Add(this.lblBrojZnakova);
             this.Controls.Add(this.lblBrojJedinki);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "DialogOptions";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Opcije";
